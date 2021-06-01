@@ -1,0 +1,8 @@
+node_modules/
+logs/
+.vscode/
+src/BasicTemplate/.vs/
+src/BasicTemplate/bin/
+src/BasicTemplate/obj/
+src/.vs/
+/.vs
